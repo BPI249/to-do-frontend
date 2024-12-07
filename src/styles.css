@@ -21,7 +21,7 @@ p {
 }
 
 h2 {
-  font-size: 3.5em;
+  font-size: 3em;
   font-weight: bolder;
 }
 
@@ -36,4 +36,10 @@ div {
 
 #todo-div {
   background: linear-gradient(to bottom right, #5069e8, #c0d2ff);
+}
+
+obj {
+  width: 200px;
+  height: 200px;
+  background: aqua;
 }
