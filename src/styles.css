@@ -22,10 +22,14 @@ h2 {
   font-weight: bolder;
 }
 
-budget-div {
+div {
+  border-radius: 1em;
+}
+
+#budget-div {
   background: linear-gradient(to bottom right, #e85050, pink);
 }
 
-budget-div {
+#todo-div {
   background: linear-gradient(to bottom right, #5069e8, #c0d2ff);
 }
