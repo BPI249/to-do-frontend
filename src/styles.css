@@ -1,0 +1,31 @@
+body {
+  background-color: #171313;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+p, h1, h2, h3 {
+  font-family: Arial;
+  font-color: #c6c6c6;
+}
+
+p {
+  font-size: 10em;
+}
+
+h2 {
+  font-size: 15em;
+  font-weight: bolder;
+}
+
+budget-div {
+  background: linear-gradient(to bottom right, #e85050, pink);
+}
+
+budget-div {
+  background: linear-gradient(to bottom right, #5069e8, #c0d2ff);
+}
